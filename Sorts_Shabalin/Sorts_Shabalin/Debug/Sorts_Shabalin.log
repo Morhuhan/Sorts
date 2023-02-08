@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(89,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(131,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(177,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(199,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(211,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Sorts_Shabalin\Source.cpp(219,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Sorts_Shabalin.vcxproj -> C:\Users\radio\Labs\Sorts\Sorts_Shabalin\Debug\Sorts_Shabalin.exe
